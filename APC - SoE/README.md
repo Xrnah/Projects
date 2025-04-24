@@ -37,15 +37,17 @@ Year/Term: Y3T1
 ## Indoor Air Quality Monitoring
 Part of a larger project, I am tasked to handle the integration of 4 pollutant sensors in a custom 3D printed base.  
 
-Sensors:
+Sensors:  
 - MQ131 (Ozone)
 - Grove: VOC and eCO2 Gas Sensor
 - Grove: Multichannel Gas Sensor v2
 - Grove: All-in-one Environmental Sensor  
-MCU:
+
+MCU:  
 - Arduino UNO R4 Minima
 - Raspberry Pi 4 Model B  
-MCU Module:
+
+MCU Module:  
 - SeeedStudio: Arduino Base Shield v2 
 
 Course: <ins>**ECEMETH**</ins> - <ins>**ECECAP1**</ins> - <ins>**ECECAP2**</ins>  
@@ -57,7 +59,7 @@ Year/Term: Y3T1-Y3T3
 Part of the project series: Building Energy Management  
 This project aims to develop a dashboard to control and visualize the ACUs running in the rooms being monitored.  
 
-MCU:
+MCU:  
 - ESP01M IR Transceiver (ESP8285/ESP8286)
 
 Course: <ins>**ECEMETH**</ins> - <ins>**ECECAP1**</ins> - <ins>**ECECAP2**</ins>  
