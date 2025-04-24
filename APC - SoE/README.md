@@ -1,6 +1,11 @@
 # APC - SoE
 Collection of college projects done within 2021 - 2026.
 
+Timeline:
+
+2025 - 
+
+
 ## Smart_Home
 We are given a goal to create a project that integrates at least 2 sensors and an output from the sensor.
 
@@ -10,7 +15,7 @@ Sensors: IR Sensor & Temperature/Humidity Sensor
 
 Output: Lights & Fans
 
-Course: **ELEX3** & **DELX1**
+Course: <ins>**ELEX3**</ins> & <ins>**DELX1**</ins>
 
 Year/Term: Y2T2
 
@@ -47,19 +52,17 @@ MCU:
 MCU Module:
 - SeeedStudio: Arduino Base Shield v2 
 
-Course: **ECEMETH** - **ECECAP1** - **ECECAP2**
-
+Course: **ECEMETH** - **ECECAP1** - **ECECAP2**  
 Year/Term: Y3T1-Y3T3
 
 ## Centralized ACU Controller (On Progress)
 > The agreed requirement to pass capstone.
 
-Part of the project series: Building Energy Management
+Part of the project series: Building Energy Management  
 This project aims to develop a dashboard to control and visualize the ACUs running in the rooms being monitored.
 
 MCU:
 - ESP01M IR Transceiver (ESP8285/ESP8286)
 
-Course: **ECEMETH** - **ECECAP1** - **ECECAP2**
-
+Course: **ECEMETH** - **ECECAP1** - **ECECAP2**  
 Year/Term: Y3T1-Y3T3
