@@ -3,11 +3,15 @@ Collection of college projects done within 2021 - 2026.
 
 ## Smart_Home
 We are given a goal to create a project that integrates at least 2 sensors and an output from the sensor.
+
 Proposal: Smart Room Management System
+
 Sensors: IR Sensor & Temperature/Humidity Sensor
+
 Output: Lights & Fans
 
 Course: **ELEX3** & **DELX1**
+
 Year/Term: Y2T2
 
 ## Aeroponic_SYS
