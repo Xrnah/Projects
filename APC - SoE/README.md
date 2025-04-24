@@ -19,13 +19,16 @@ We are tasked to use a microcontroller to manage a physical project.
 Proposal: Automated Aeroponics
 
 Course: **DELX2**
+
 Year/Term: Y2T3
 
 ## ECE221_Weather_Station
 The project is synthesised from the requirement of having a 'feedback & control system'.
-[Project Brief](\Documentation\Documents\IoT-Based Weather Station Monitoring Temperature, Humidity, Rain, Flood, and Pollution using ESP32 and Blynk.pdf)
+
+[Project Brief](Documentation/Documents/IoT-Based%20Weather%20Station%20Monitoring%20Temperature,%20Humidity,%20Rain,%20Flood,%20and%20Pollution%20using%20ESP32%20and%20Blynk.pdf)
 
 Course: **FDCNLAB**
+
 Year/Term: Y3T1
 
 ## Indoor Air Quality Monitoring
@@ -36,17 +39,21 @@ Sensors:
 - Grove: VOC and eCO2 Gas Sensor
 - Grove: Multichannel Gas Sensor v2
 - Grove: All-in-one Environmental Sensor
+
 MCU:
 - Arduino UNO R4 Minima
 - Raspberry Pi 4 Model B
+
 MCU Module:
 - SeeedStudio: Arduino Base Shield v2 
 
 Course: **ECEMETH** - **ECECAP1** - **ECECAP2**
+
 Year/Term: Y3T1-Y3T3
 
 ## Centralized ACU Controller (On Progress)
 > The agreed requirement to pass capstone.
+
 Part of the project series: Building Energy Management
 This project aims to develop a dashboard to control and visualize the ACUs running in the rooms being monitored.
 
@@ -54,4 +61,5 @@ MCU:
 - ESP01M IR Transceiver (ESP8285/ESP8286)
 
 Course: **ECEMETH** - **ECECAP1** - **ECECAP2**
+
 Year/Term: Y3T1-Y3T3
