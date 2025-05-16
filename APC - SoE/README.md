@@ -1,18 +1,20 @@
 # APC - SoE
-Collection of college projects done within 2021 - 2026.  
+Collection of college projects done within 2021 - 2026.
+Asia Pacific College (APC)  
+School of Engineering (SoE)  
 
 **Timeline**:  
-_2024:  
+2024:  
 March - [Smart_Home](#smart_home)  
 July - [Aeroponic_SYS](#aeroponic_sys)  
 November - [ECE221_Weather_Station](#ece221_weather_station)  
-_2025:  
+2025:  
 March - [Indoor Air Quality Monitoring](#indoor-air-quality-monitoring)  
 Apr-May-Jun - [Centralized ACU Controller](#centralized-acu-controller-on-progress)  
-_2026:  
+2026:  
 
 ## Smart_Home
-We are given a goal to create a project that integrates at least 2 sensors and an output from the sensor.  
+We are given a goal to create a project that integrates at least 2 sensors and a logical output from the sensor.  
 
 Proposal: Smart Room Management System  
 Sensors: IR Sensor & Temperature/Humidity Sensor  
@@ -61,6 +63,19 @@ This project aims to develop a dashboard to control and visualize the ACUs runni
 
 MCU:
 - ESP01M IR Transceiver (ESP8285/ESP8286)
+
+Dashboard:  
+- Grafana Enterprise
+
+Database:
+- mySQL
+
+Database Manager:
+- phpMyAdmin
+
+IoT:
+- php scripting
+- MQTT
 
 Course: <ins>**ECEMETH**</ins> - <ins>**ECECAP1**</ins> - <ins>**ECECAP2**</ins>  
 Year/Term: Y3T1-Y3T3  
