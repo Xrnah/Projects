@@ -3,6 +3,7 @@ Collection of college projects done within 2021 - 2026.
 Asia Pacific College (APC)  
 School of Engineering (SoE)  
 
+----------
 **Timeline**:  
 2024:  
 March - [Smart_Home](#smart_home)  
@@ -79,3 +80,4 @@ IoT:
 
 Course: <ins>**ECEMETH**</ins> - <ins>**ECECAP1**</ins> - <ins>**ECECAP2**</ins>  
 Year/Term: Y3T1-Y3T3  
+
