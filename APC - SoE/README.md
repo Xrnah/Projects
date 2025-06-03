@@ -15,7 +15,7 @@ Apr-May-Jun - [Centralized ACU Controller](#centralized-acu-controller-on-progre
 2026:  
 
 ## Smart_Home
-We are given a goal to create a project that integrates at least 2 sensors and a logical output from the sensor.  
+We aim to create a project that integrates at least 2 sensors and a logical output from the sensors.  
 
 Proposal: Smart Room Management System  
 Sensors: IR Sensor & Temperature/Humidity Sensor  
@@ -38,7 +38,7 @@ Course: <ins>**FDCNLAB**</ins>
 Year/Term: Y3T1  
 
 ## Indoor Air Quality Monitoring
-Part of a larger project, I am tasked to handle the integration of 4 pollutant sensors in a custom 3D printed base.  
+As part of a larger project, I am tasked with integrating four pollutant sensors into a custom 3D-printed base.  
 
 Sensors:
 - MQ131 (Ozone)
@@ -69,15 +69,15 @@ Dashboard:
 - Grafana Enterprise
 
 Database:
-- mySQL
+- MySQL/MariaDB
 
 Database Manager:
 - phpMyAdmin
 
 IoT:
-- php scripting
+- PHP scripting
 - MQTT
 
 Course: <ins>**ECEMETH**</ins> - <ins>**ECECAP1**</ins> - <ins>**ECECAP2**</ins>  
-Year/Term: Y3T1-Y3T3  
+Year/Term: Y3T2-Y4T1  
 
