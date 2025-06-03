@@ -1,5 +1,5 @@
 # APC - SoE
-Collection of college projects done within 2021 - 2026.
+Collection of college projects done within 2021 - 2026.  
 Asia Pacific College (APC)  
 School of Engineering (SoE)  
 
